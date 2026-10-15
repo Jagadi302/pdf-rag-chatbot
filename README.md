@@ -99,3 +99,13 @@ Open the local URL displayed in the terminal, usually `http://localhost:8501`.
 Jagadish Kumar Thammineni
 
 AI/ML | Generative AI | Retrieval-Augmented Generation
+
+
+
+
+## Demo Screenshot
+
+![PDF RAG Chatbot demo](rag-chatbot-demo.jpg)
+
+
+
